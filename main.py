@@ -13,3 +13,15 @@ Key = "DMajor"
 ReleaseYear = 1994
 TrackNumber = 1
 WrittenBy = "Ed Roland"
+
+#print band and song attributes
+print(Artist)
+print(Genre)
+print(Location)
+print(RecordLabel)
+print(LengthInMinutes)
+print(Album)
+print(Key)
+print(ReleaseYear)
+print(TrackNumber)
+print(WrittenBy)
