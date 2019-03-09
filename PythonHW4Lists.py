@@ -24,8 +24,10 @@ addValue(4.5)
 addValue([1,2])
 addValue([1,2])
 addValue('b')
+addValue('a')
 addValue([3,4,5])
 
 #printing list to see if function worked
 print(myUniqueList)
+#print leftover list to see that works as well
 print(myLeftovers)
